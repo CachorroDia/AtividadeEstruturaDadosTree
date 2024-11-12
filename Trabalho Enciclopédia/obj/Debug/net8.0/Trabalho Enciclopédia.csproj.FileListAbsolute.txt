@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\bin\Debug\net8.0\Trabalho Enciclopédia.exe
+C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\bin\Debug\net8.0\Trabalho Enciclopédia.deps.json
+C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\bin\Debug\net8.0\Trabalho Enciclopédia.runtimeconfig.json
+C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\bin\Debug\net8.0\Trabalho Enciclopédia.dll
+C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\bin\Debug\net8.0\Trabalho Enciclopédia.pdb
+C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.AssemblyInfo.cs
+C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.dll
+C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\obj\Debug\net8.0\refint\Trabalho Enciclopédia.dll
+C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.pdb
+C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.genruntimeconfig.cache
+C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\obj\Debug\net8.0\ref\Trabalho Enciclopédia.dll
