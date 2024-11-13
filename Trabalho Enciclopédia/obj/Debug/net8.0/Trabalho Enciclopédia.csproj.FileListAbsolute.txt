@@ -12,3 +12,18 @@ C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho E
 C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.pdb
 C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.genruntimeconfig.cache
 C:\Users\User\Desktop\Arquivos PUC\Quarto semestre\Estrutura de dados\Trabalho Enciclopédia\Trabalho Enciclopédia\obj\Debug\net8.0\ref\Trabalho Enciclopédia.dll
+C:\Users\Kevv\Documents\Projetos da Faculdade\Estrutura de Dados\Atividade Enciclopédia Arvore\AtividadeEstruturaDadosTree\Trabalho Enciclopédia\bin\Debug\net8.0\Trabalho Enciclopédia.exe
+C:\Users\Kevv\Documents\Projetos da Faculdade\Estrutura de Dados\Atividade Enciclopédia Arvore\AtividadeEstruturaDadosTree\Trabalho Enciclopédia\bin\Debug\net8.0\Trabalho Enciclopédia.deps.json
+C:\Users\Kevv\Documents\Projetos da Faculdade\Estrutura de Dados\Atividade Enciclopédia Arvore\AtividadeEstruturaDadosTree\Trabalho Enciclopédia\bin\Debug\net8.0\Trabalho Enciclopédia.runtimeconfig.json
+C:\Users\Kevv\Documents\Projetos da Faculdade\Estrutura de Dados\Atividade Enciclopédia Arvore\AtividadeEstruturaDadosTree\Trabalho Enciclopédia\bin\Debug\net8.0\Trabalho Enciclopédia.dll
+C:\Users\Kevv\Documents\Projetos da Faculdade\Estrutura de Dados\Atividade Enciclopédia Arvore\AtividadeEstruturaDadosTree\Trabalho Enciclopédia\bin\Debug\net8.0\Trabalho Enciclopédia.pdb
+C:\Users\Kevv\Documents\Projetos da Faculdade\Estrutura de Dados\Atividade Enciclopédia Arvore\AtividadeEstruturaDadosTree\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevv\Documents\Projetos da Faculdade\Estrutura de Dados\Atividade Enciclopédia Arvore\AtividadeEstruturaDadosTree\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.AssemblyInfoInputs.cache
+C:\Users\Kevv\Documents\Projetos da Faculdade\Estrutura de Dados\Atividade Enciclopédia Arvore\AtividadeEstruturaDadosTree\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.AssemblyInfo.cs
+C:\Users\Kevv\Documents\Projetos da Faculdade\Estrutura de Dados\Atividade Enciclopédia Arvore\AtividadeEstruturaDadosTree\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.csproj.CoreCompileInputs.cache
+C:\Users\Kevv\Documents\Projetos da Faculdade\Estrutura de Dados\Atividade Enciclopédia Arvore\AtividadeEstruturaDadosTree\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.sourcelink.json
+C:\Users\Kevv\Documents\Projetos da Faculdade\Estrutura de Dados\Atividade Enciclopédia Arvore\AtividadeEstruturaDadosTree\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.dll
+C:\Users\Kevv\Documents\Projetos da Faculdade\Estrutura de Dados\Atividade Enciclopédia Arvore\AtividadeEstruturaDadosTree\Trabalho Enciclopédia\obj\Debug\net8.0\refint\Trabalho Enciclopédia.dll
+C:\Users\Kevv\Documents\Projetos da Faculdade\Estrutura de Dados\Atividade Enciclopédia Arvore\AtividadeEstruturaDadosTree\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.pdb
+C:\Users\Kevv\Documents\Projetos da Faculdade\Estrutura de Dados\Atividade Enciclopédia Arvore\AtividadeEstruturaDadosTree\Trabalho Enciclopédia\obj\Debug\net8.0\Trabalho Enciclopédia.genruntimeconfig.cache
+C:\Users\Kevv\Documents\Projetos da Faculdade\Estrutura de Dados\Atividade Enciclopédia Arvore\AtividadeEstruturaDadosTree\Trabalho Enciclopédia\obj\Debug\net8.0\ref\Trabalho Enciclopédia.dll

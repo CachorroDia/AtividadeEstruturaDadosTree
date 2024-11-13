@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "D:\\Arquivos de Programas\\Ferramenta visual studio\\NuGetPackages": {}
+    "C:\\Users\\Kevv\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Arquivos PUC\\Quarto semestre\\Estrutura de dados\\Trabalho Enciclopédia\\Trabalho Enciclopédia\\Trabalho Enciclopédia.csproj",
+      "projectUniqueName": "C:\\Users\\Kevv\\Documents\\Projetos da Faculdade\\Estrutura de Dados\\Atividade Enciclopédia Arvore\\AtividadeEstruturaDadosTree\\Trabalho Enciclopédia\\Trabalho Enciclopédia.csproj",
       "projectName": "Trabalho Enciclopédia",
-      "projectPath": "C:\\Users\\User\\Desktop\\Arquivos PUC\\Quarto semestre\\Estrutura de dados\\Trabalho Enciclopédia\\Trabalho Enciclopédia\\Trabalho Enciclopédia.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Arquivos PUC\\Quarto semestre\\Estrutura de dados\\Trabalho Enciclopédia\\Trabalho Enciclopédia\\obj\\",
+      "projectPath": "C:\\Users\\Kevv\\Documents\\Projetos da Faculdade\\Estrutura de Dados\\Atividade Enciclopédia Arvore\\AtividadeEstruturaDadosTree\\Trabalho Enciclopédia\\Trabalho Enciclopédia.csproj",
+      "packagesPath": "C:\\Users\\Kevv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kevv\\Documents\\Projetos da Faculdade\\Estrutura de Dados\\Atividade Enciclopédia Arvore\\AtividadeEstruturaDadosTree\\Trabalho Enciclopédia\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Arquivos de Programas\\Ferramenta visual studio\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Kevv\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -1,12 +1,12 @@
 ﻿using Trabalho_Enciclopédia;
 
-CriadorEnciclopedia tree = new CriadorEnciclopedia();
+EnciclopediaCreator tree = new EnciclopediaCreator();
 tree.Ler("wiki.txt");
 
-ListaComando comando = new ListaComando();
-comando.Ler("log.txt");
+CommandList comando = new CommandList();
+comando.Read("log.txt");
 
-comando.Comandos(comando.listaComando, tree.paiDeTodos);
+comando.Command(comando.commandList, tree.paiDeTodos);
 
 Console.WriteLine("Digite o que quer filtrar, 0 para monstro e 1 para carta");
 string input;
@@ -20,4 +20,4 @@ while(true)
     else Console.WriteLine("Digitado errado, por favor, digite apenas 1 ou 0");
 }
 
-Console.WriteLine(comando.VerificarAcessos(tree.paiDeTodos, Convert.ToInt32(input)) );
+comando.VerifyAccess(tree.paiDeTodos, Convert.ToInt32(input));

@@ -8,55 +8,54 @@ namespace Trabalho_Enciclopédia
 {
     internal class TreeNode
     {
-        public String capitulo;
+        public String chapter;
 
-        public int vezesAcessado;
+        public int timesAccessed;
 
-        private TreeNode _pai;
-        private List<TreeNode> _filhoLista = new List<TreeNode>();
+        private TreeNode _parent;
+        private List<TreeNode> _childList = new List<TreeNode>();
 
-        public TreeNode(string capitulo, TreeNode _pai = null)
+        public TreeNode(string chapter, TreeNode _pai = null)
         {
-            this.capitulo = capitulo;
-            this._pai = _pai;
+            this.chapter = chapter;
+            this._parent = _pai;
         }
 
-        public TreeNode AdicionarFilho(String capitulo, TreeNode pai)
+        public TreeNode AdicionarFilho(String chapter, TreeNode parent)
         {
-            TreeNode novoNo = new TreeNode(capitulo, pai);
-            _filhoLista.Add(novoNo);
-            return novoNo;
+            TreeNode newNode = new TreeNode(chapter, parent);
+            _childList.Add(newNode);
+            return newNode;
         }
 
-        public TreeNode GetPai()
+        public TreeNode GetParent()
         {
-            return _pai;
+            return _parent;
         }
 
-        public TreeNode GetFilho(int index)
+        public TreeNode GetChild(int index)
         {
-            return _filhoLista[index];
+            return _childList[index];
         }
 
-        public int NFilhos()
+        public int NChilds()
         {
-            return _filhoLista.Count;
+            return _childList.Count;
         }
 
-        public void ImprimirEmOrdem(Action<TreeNode> function)
+        public void PrintInOrder(Action<TreeNode> function)
         {
             function(this);
-            foreach (var filho in _filhoLista)
+            foreach (var filho in _childList)
             {
-                filho.ImprimirEmOrdem(function);
+                filho.PrintInOrder(function);
             }
         }
-
 
         public void CallChildren(Action<TreeNode> function)
         {
             function(this);
-            foreach (var child in _filhoLista)
+            foreach (var child in _childList)
             {
                 child.CallChildren(function);
             }
@@ -64,13 +63,13 @@ namespace Trabalho_Enciclopédia
 
         public void IntegrateToList(List<TreeNode> list)
         {
-            if (this.NFilhos() < 1)
+            if (this.NChilds() < 1)
             {
                 list.Add(this);
             }
             else
             {
-                foreach (var child in _filhoLista)
+                foreach (var child in _childList)
                 {
                     child.IntegrateToList(list);
                 }

@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Arquivos PUC\\Quarto semestre\\Estrutura de dados\\Trabalho Enciclop\u00E9dia\\Trabalho Enciclop\u00E9dia\\",
+  "WorkspaceRootPath": "C:\\Users\\Kevv\\Documents\\Projetos da Faculdade\\Estrutura de Dados\\Atividade Enciclop\u00E9dia Arvore\\AtividadeEstruturaDadosTree\\Trabalho Enciclop\u00E9dia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C05B09D6-ED4B-4ACC-A963-BEE9C3B6BC7B}|Trabalho Enciclop\u00E9dia.csproj|c:\\users\\user\\desktop\\arquivos puc\\quarto semestre\\estrutura de dados\\trabalho enciclop\u00E9dia\\trabalho enciclop\u00E9dia\\listacomando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C05B09D6-ED4B-4ACC-A963-BEE9C3B6BC7B}|Trabalho Enciclop\u00E9dia.csproj|solutionrelative:listacomando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C05B09D6-ED4B-4ACC-A963-BEE9C3B6BC7B}|Trabalho Enciclop\u00E9dia.csproj|c:\\users\\kevv\\documents\\projetos da faculdade\\estrutura de dados\\atividade enciclop\u00E9dia arvore\\atividadeestruturadadostree\\trabalho enciclop\u00E9dia\\commandlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05B09D6-ED4B-4ACC-A963-BEE9C3B6BC7B}|Trabalho Enciclop\u00E9dia.csproj|solutionrelative:commandlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C05B09D6-ED4B-4ACC-A963-BEE9C3B6BC7B}|Trabalho Enciclop\u00E9dia.csproj|c:\\users\\user\\desktop\\arquivos puc\\quarto semestre\\estrutura de dados\\trabalho enciclop\u00E9dia\\trabalho enciclop\u00E9dia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C05B09D6-ED4B-4ACC-A963-BEE9C3B6BC7B}|Trabalho Enciclop\u00E9dia.csproj|c:\\users\\kevv\\documents\\projetos da faculdade\\estrutura de dados\\atividade enciclop\u00E9dia arvore\\atividadeestruturadadostree\\trabalho enciclop\u00E9dia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C05B09D6-ED4B-4ACC-A963-BEE9C3B6BC7B}|Trabalho Enciclop\u00E9dia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C05B09D6-ED4B-4ACC-A963-BEE9C3B6BC7B}|Trabalho Enciclop\u00E9dia.csproj|c:\\users\\user\\desktop\\arquivos puc\\quarto semestre\\estrutura de dados\\trabalho enciclop\u00E9dia\\trabalho enciclop\u00E9dia\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C05B09D6-ED4B-4ACC-A963-BEE9C3B6BC7B}|Trabalho Enciclop\u00E9dia.csproj|c:\\users\\kevv\\documents\\projetos da faculdade\\estrutura de dados\\atividade enciclop\u00E9dia arvore\\atividadeestruturadadostree\\trabalho enciclop\u00E9dia\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C05B09D6-ED4B-4ACC-A963-BEE9C3B6BC7B}|Trabalho Enciclop\u00E9dia.csproj|solutionrelative:treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C05B09D6-ED4B-4ACC-A963-BEE9C3B6BC7B}|Trabalho Enciclop\u00E9dia.csproj|c:\\users\\user\\desktop\\arquivos puc\\quarto semestre\\estrutura de dados\\trabalho enciclop\u00E9dia\\trabalho enciclop\u00E9dia\\criadorenciclopedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C05B09D6-ED4B-4ACC-A963-BEE9C3B6BC7B}|Trabalho Enciclop\u00E9dia.csproj|solutionrelative:criadorenciclopedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C05B09D6-ED4B-4ACC-A963-BEE9C3B6BC7B}|Trabalho Enciclop\u00E9dia.csproj|c:\\users\\kevv\\documents\\projetos da faculdade\\estrutura de dados\\atividade enciclop\u00E9dia arvore\\atividadeestruturadadostree\\trabalho enciclop\u00E9dia\\enciclopediacreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05B09D6-ED4B-4ACC-A963-BEE9C3B6BC7B}|Trabalho Enciclop\u00E9dia.csproj|solutionrelative:enciclopediacreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ListaComando.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Arquivos PUC\\Quarto semestre\\Estrutura de dados\\Trabalho Enciclop\u00E9dia\\Trabalho Enciclop\u00E9dia\\ListaComando.cs",
-              "RelativeDocumentMoniker": "ListaComando.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Arquivos PUC\\Quarto semestre\\Estrutura de dados\\Trabalho Enciclop\u00E9dia\\Trabalho Enciclop\u00E9dia\\ListaComando.cs",
-              "RelativeToolTip": "ListaComando.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwDsAAAA6AAAAAAAAAA==",
+              "Title": "CommandList.cs",
+              "DocumentMoniker": "C:\\Users\\Kevv\\Documents\\Projetos da Faculdade\\Estrutura de Dados\\Atividade Enciclop\u00E9dia Arvore\\AtividadeEstruturaDadosTree\\Trabalho Enciclop\u00E9dia\\CommandList.cs",
+              "RelativeDocumentMoniker": "CommandList.cs",
+              "ToolTip": "C:\\Users\\Kevv\\Documents\\Projetos da Faculdade\\Estrutura de Dados\\Atividade Enciclop\u00E9dia Arvore\\AtividadeEstruturaDadosTree\\Trabalho Enciclop\u00E9dia\\CommandList.cs",
+              "RelativeToolTip": "CommandList.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T07:18:50.824Z",
               "EditorCaption": ""
@@ -45,11 +49,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Arquivos PUC\\Quarto semestre\\Estrutura de dados\\Trabalho Enciclop\u00E9dia\\Trabalho Enciclop\u00E9dia\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kevv\\Documents\\Projetos da Faculdade\\Estrutura de Dados\\Atividade Enciclop\u00E9dia Arvore\\AtividadeEstruturaDadosTree\\Trabalho Enciclop\u00E9dia\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Arquivos PUC\\Quarto semestre\\Estrutura de dados\\Trabalho Enciclop\u00E9dia\\Trabalho Enciclop\u00E9dia\\Program.cs",
+              "ToolTip": "C:\\Users\\Kevv\\Documents\\Projetos da Faculdade\\Estrutura de Dados\\Atividade Enciclop\u00E9dia Arvore\\AtividadeEstruturaDadosTree\\Trabalho Enciclop\u00E9dia\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T02:27:36.781Z",
               "EditorCaption": ""
@@ -57,12 +61,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CriadorEnciclopedia.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Arquivos PUC\\Quarto semestre\\Estrutura de dados\\Trabalho Enciclop\u00E9dia\\Trabalho Enciclop\u00E9dia\\CriadorEnciclopedia.cs",
-              "RelativeDocumentMoniker": "CriadorEnciclopedia.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Arquivos PUC\\Quarto semestre\\Estrutura de dados\\Trabalho Enciclop\u00E9dia\\Trabalho Enciclop\u00E9dia\\CriadorEnciclopedia.cs",
-              "RelativeToolTip": "CriadorEnciclopedia.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAgwEoAAAArAAAAAAAAAA==",
+              "Title": "EnciclopediaCreator.cs",
+              "DocumentMoniker": "C:\\Users\\Kevv\\Documents\\Projetos da Faculdade\\Estrutura de Dados\\Atividade Enciclop\u00E9dia Arvore\\AtividadeEstruturaDadosTree\\Trabalho Enciclop\u00E9dia\\EnciclopediaCreator.cs",
+              "RelativeDocumentMoniker": "EnciclopediaCreator.cs",
+              "ToolTip": "C:\\Users\\Kevv\\Documents\\Projetos da Faculdade\\Estrutura de Dados\\Atividade Enciclop\u00E9dia Arvore\\AtividadeEstruturaDadosTree\\Trabalho Enciclop\u00E9dia\\EnciclopediaCreator.cs",
+              "RelativeToolTip": "EnciclopediaCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T02:52:15.646Z",
               "EditorCaption": ""
@@ -71,14 +75,24 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TreeNode.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Arquivos PUC\\Quarto semestre\\Estrutura de dados\\Trabalho Enciclop\u00E9dia\\Trabalho Enciclop\u00E9dia\\TreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\Kevv\\Documents\\Projetos da Faculdade\\Estrutura de Dados\\Atividade Enciclop\u00E9dia Arvore\\AtividadeEstruturaDadosTree\\Trabalho Enciclop\u00E9dia\\TreeNode.cs",
               "RelativeDocumentMoniker": "TreeNode.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Arquivos PUC\\Quarto semestre\\Estrutura de dados\\Trabalho Enciclop\u00E9dia\\Trabalho Enciclop\u00E9dia\\TreeNode.cs",
+              "ToolTip": "C:\\Users\\Kevv\\Documents\\Projetos da Faculdade\\Estrutura de Dados\\Atividade Enciclop\u00E9dia Arvore\\AtividadeEstruturaDadosTree\\Trabalho Enciclop\u00E9dia\\TreeNode.cs",
               "RelativeToolTip": "TreeNode.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAzwEwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T02:30:54.348Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
